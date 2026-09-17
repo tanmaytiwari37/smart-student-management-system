@@ -1,0 +1,8 @@
+studentId,name,email,subjectMarks,gpa
+STU102,Diya Patel,diya.patel@university.edu,Mathematics:82.0;Physics:79.0;Chemistry:85.0,2.67
+STU101,Aarav Sharma,aarav.sharma@university.edu,Mathematics:94.0;Physics:88.0;Computer Science:96.0,3.67
+STU104,Sneha Kulkarni,sneha.k@university.edu,Operating Systems:73.0;Computer Networks:68.0;Mathematics:77.0,1.67
+STU103,Rohan Verma,rohan.verma@university.edu,Data Structures:91.0;Algorithms:95.0;Database Systems:92.0,4.00
+25BAS10093,Tanmay,tanmay@play.com,Mathematics:100.0;Physics:94.0,4.00
+STU105,Vikram Malhotra,vikram.m@university.edu,Mathematics:55.0;Physics:58.0;English:72.0,0.67
+25BAI10001,Bobby,Bobby@play.com,Mathematics:80.0,3.00

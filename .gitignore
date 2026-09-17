@@ -1,0 +1,45 @@
+# ==============================================================================
+# Git Ignore Configuration for SSIPMS (Java / Web Full-Stack)
+# ==============================================================================
+
+# Compiled Java Bytecode & Build Artifacts
+*.class
+*.jar
+*.war
+*.ear
+backend/bin/
+bin/
+out/
+target/
+build/
+
+# IDE & Editor Specific Metadata
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+.project
+.classpath
+.settings/
+
+# Operating System Temporary Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.tmp
+
+# Runtime Logs & Crash Dumps
+*.log
+hs_err_pid*
+replay_pid*
+
+# Local Test CSV Artifacts (Keep data/students.csv tracked if desired as seed)
+data/test_*.csv
+
+# Environment & Sensitive Files
+.env
+.env.local
+*.pem
+*.key
